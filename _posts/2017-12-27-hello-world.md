@@ -3,7 +3,8 @@ layout:     post
 title:      Hello World
 date:       2017-12-27
 summary:    Welcome to the blog. So stoked you made it here...
-categories: software dev planetary
+category:   dev
+tags:       [web, github, jekyll]
 ---
 
 Hi!
