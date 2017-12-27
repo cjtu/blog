@@ -11,7 +11,7 @@ header_pages:
  - contact.html
 
 # Google analytics
-google_analytics:
+google_analytics: UA-111642150-1
 
 # Optional features
 animated:             false
