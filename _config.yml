@@ -3,7 +3,7 @@ title:       Becoming a Planetary Developer
 email:       cj.taiudovicic@gmail.com
 author:      Christian Tai Udovicic
 description: "Software development, planetary science and things I learned along the way."
-baseurl:     "/pixyll"
+baseurl:     "/blog"
 url:         "http://cjtu.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
@@ -105,7 +105,7 @@ text:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: 'Thanks for getting in touch. I will reply as soon as possible.'
   og_locale: 'en_US'
 
 # Build settings
@@ -113,7 +113,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     8
 sass:
   style: compressed
 plugins:
